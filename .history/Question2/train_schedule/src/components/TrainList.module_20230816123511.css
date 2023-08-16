@@ -1,0 +1,6 @@
+/* src/components/TrainList.module.css */
+.listItem {
+    margin: 10px;
+    background-color: rgb(25, 27, 27);
+  }
+  

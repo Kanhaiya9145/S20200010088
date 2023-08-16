@@ -1,0 +1,17 @@
+/* src/components/TrainList.css */
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.listItem {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.listItem:hover {
+  background-color: #e0e0e0;
+}
